@@ -1,10 +1,9 @@
 import React from 'react'
+import './style.css'
 
 function FullName() {
     return (
-        <div>
-            <h2>Full Name component</h2>
-        </div>
+       <span className="name">Mohamed Zghidi</span>
     )
 }
 

@@ -2,9 +2,11 @@ import React from 'react'
 
 function Address() {
     return (
-        <div>
-            <h2>This is Address Component</h2>
-        </div>
+        <span className='adr'>
+            Route Taniour, klm 3, Sfax 3000
+        </span>
+        
+        
     )
 }
 

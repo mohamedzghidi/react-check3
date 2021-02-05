@@ -1,10 +1,11 @@
 import React from 'react'
+import myPhoto from './photo.jpg'
+import './style.css'
 
 function ProfilePhoto() {
     return (
-        <div>
-            <h2> Profile Photo component</h2>
-        </div>
+        
+       <img src={myPhoto} alt="profile photo"  className='profilePhoto' />
     )
 }
 

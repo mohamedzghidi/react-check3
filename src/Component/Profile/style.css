@@ -1,0 +1,20 @@
+.profilePhoto {
+    border: 2px solid red;
+    height: 100px;
+}
+
+.name{
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    vertical-align: middle;
+}
+.adr{
+    font-size: 22px;
+    font-weight: normal;
+    color: rgb(31, 31, 32);
+    text-align: center;
+    vertical-align: middle;
+}
+
